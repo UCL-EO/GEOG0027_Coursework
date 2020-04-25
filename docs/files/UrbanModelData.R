@@ -121,6 +121,7 @@ model_data <- X[overlap,]
 model_data$du_dy <- du_dy
 model_data$dyear <- dy
 model_data$urban_land <- input$urban_land[overlap]
+model_data$year <- input$year[overlap]
 
 # save this file
 write.csv(model_data, file = "model-2019.csv")
@@ -176,7 +177,7 @@ plot(model_data$du_dy,model_du_dy
 
 # Now reconstruct urban area from du_dy
 modelled <- data.frame(year=model_data$year+dy[c(1)],
-                       y=model_data$urban_land[c(1)] - model_du_dy[c(1)] + cumsum(model_du_dy))
+                       y=model_data$urban_land[c(1)] - model_du_dy[c(1)] + cumsum(model_du_dy*dy))
 measured <- data.frame(year=model_data$year,
                        y=model_data$urban_land)
 
