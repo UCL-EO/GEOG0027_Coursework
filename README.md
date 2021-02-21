@@ -26,7 +26,7 @@ See below for notes on how to use these notes, or jump to the course pages
 * [Download page](docs/4_DownloadLandsatFromGEE.ipynb)
 
 ### Classification
-* [Classification page](docs/5_PearlRiverClassification.ipynb)
+* [Classification page](docs/5_PearlRiverClassification.ipynb) and [GEE classification](docs/5a_PythonGEE-Classification.ipynb)
 
 
 ### Modelling
