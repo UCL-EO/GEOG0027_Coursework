@@ -6,8 +6,8 @@ Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master?urlpath=rstudio)
 
-
-[ReadTheDocs](https://geog0027-coursework.readthedocs.io/en/latest/)
+READ-ONLY VERSION:
+[ReadTheDocs](https://geog0027-coursework-2020-2021.readthedocs.io/en/latest/)
 
 See below for notes on how to use these notes, or jump to the course pages
 
@@ -26,18 +26,18 @@ See below for notes on how to use these notes, or jump to the course pages
 * [Download page](docs/4_DownloadLandsatFromGEE.ipynb)
 
 ### Classification
-* [Classification page](docs/5_PearlRiverClassification.ipynb) and [GEE classification](docs/5a_PythonGEE-Classification.ipynb)
+* [Classification page](docs/5_PearlRiverClassification.ipynb) and [GEE classification](docs/6_PythonGEE-Classification.ipynb)
 
 
 ### Modelling
-* [Modelling page](docs/6_UrbanModel.ipynb)
+* [Modelling page](docs/7_UrbanModel.ipynb)
 
 
 ### Write Up
-* [Write Up page](docs/7_WriteUp.ipynb)
+* [Write Up page](docs/8_WriteUp.ipynb)
 
 ### Project Advice
-* [Project FAQ](docs/8_ProjectAdvice.ipynb)
+* [Project FAQ](docs/9_ProjectAdvice.ipynb)
 
 ## Coursework notes for Geog 0027
 
