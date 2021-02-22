@@ -39,11 +39,11 @@ Welcome to GEOG0027 Coursework documentation
    Google Download <4_DownloadLandsatFromGEE.ipynb>
    
    Classification with ENVI <5_PearlRiverClassification.ipynb>
-   Classification with GEE <6_PythonGEE-Classification.ipynb>
-   Modelling <7_UrbanModel.ipynb>
+   Classification with GEE <5a_PythonGEE-Classification.ipynb>
+   Modelling <6_UrbanModel.ipynb>
    
-   Project Write up <8_WriteUp.ipynb>
-   Project Advice <9_ProjectAdvice.ipynb>
+   Project Write up <7_WriteUp.ipynb>
+   Project Advice <8_ProjectAdvice.ipynb>
    
    
 
