@@ -25,13 +25,14 @@ See below for notes on how to use these notes, or jump to the course pages
 ### Download
 * [Download page](docs/4_DownloadLandsatFromGEE.ipynb)
 
-### Classification
-* [Classification page](docs/5_PearlRiverClassification.ipynb) and [GEE classification](docs/6_PythonGEE-Classification.ipynb)
+### Classification with ENVI
+* [Classification page](docs/5_PearlRiverClassification.ipynb) 
 
+### Claasification with GEE
+* [GEE classification](docs/6_PythonGEE-Classification.ipynb)
 
 ### Modelling
 * [Modelling page](docs/7_UrbanModel.ipynb)
-
 
 ### Write Up
 * [Write Up page](docs/8_WriteUp.ipynb)
@@ -39,10 +40,12 @@ See below for notes on how to use these notes, or jump to the course pages
 ### Project Advice
 * [Project FAQ](docs/9_ProjectAdvice.ipynb)
 
+
 ## Coursework notes for Geog 0027
 
 ### Accessing a test dataset
 
 There are various ways you can access Earth Observation datasets, but for this practical, we will be using composite images (one per year) derived from Landsat data.
 
-These are available to you via a [Google Earth Engine App](https://plewis.users.earthengine.app/view/shenzhen)
+These yearly data are available to you via [http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/](http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/), or
+a [Google Earth Engine App](https://plewis.users.earthengine.app/view/shenzhen)

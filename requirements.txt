@@ -5,3 +5,4 @@ simplegeneric
 tzlocal
 matplotlib
 rpy2
+geemap
