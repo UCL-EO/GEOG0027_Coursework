@@ -2,7 +2,7 @@
    :alt: UCL
 
 
-Geog0027 Coursework
+Geog0027 Coursework (2020-2021)
 ===================
 .. GEOG0027 Coursework documentation master file, created by
    sphinx-quickstart on Tue Jan 15 12:17:06 2019.
@@ -38,11 +38,12 @@ Welcome to GEOG0027 Coursework documentation
    Modelling Setup <3_RunningROnYourOwnComputer.ipynb>
    Google Download <4_DownloadLandsatFromGEE.ipynb>
    
-   Classification <5_PearlRiverClassification.ipynb>
-   Modelling <5_UrbanModel.ipynb>
+   Classification with ENVI <5_PearlRiverClassification.ipynb>
+   Classification with GEE <6_PythonGEE-Classification.ipynb>
+   Modelling <7_UrbanModel.ipynb>
    
-   Project Write up <7_WriteUp.ipynb>
-   Project Advice <8_ProjectAdvice.ipynb>
+   Project Write up <8_WriteUp.ipynb>
+   Project Advice <9_ProjectAdvice.ipynb>
    
    
 
