@@ -28,17 +28,17 @@ See below for notes on how to use these notes, or jump to the course pages
 ### Classification with ENVI
 * [Classification page](docs/5_PearlRiverClassification.ipynb) 
 
-### Claasification with GEE
-* [GEE classification](docs/6_PythonGEE-Classification.ipynb)
+### Classification with GEE (to replace the ENVI IDL bacth processing)
+* [GEE classification](docs/5a_PythonGEE-Classification.ipynb)
 
 ### Modelling
-* [Modelling page](docs/7_UrbanModel.ipynb)
+* [Modelling page](docs/6_UrbanModel.ipynb)
 
 ### Write Up
-* [Write Up page](docs/8_WriteUp.ipynb)
+* [Write Up page](docs/7_WriteUp.ipynb)
 
 ### Project Advice
-* [Project FAQ](docs/9_ProjectAdvice.ipynb)
+* [Project FAQ](docs/8_ProjectAdvice.ipynb)
 
 
 ## Coursework notes for Geog 0027
