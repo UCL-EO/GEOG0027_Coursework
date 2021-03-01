@@ -49,3 +49,7 @@ There are various ways you can access Earth Observation datasets, but for this p
 
 These yearly data are available to you via [http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/](http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/), or
 a [Google Earth Engine App](https://plewis.users.earthengine.app/view/shenzhen)
+
+### Videos from Monday live sessions
+* [video on how to run GEE classification](https://web.microsoftstream.com/video/432b3ee6-6282-4bb3-9794-b8bcd773819b)
+* [video on how to run R modelling](https://web.microsoftstream.com/video/2c3da9a9-e702-48a2-84ee-7fe59d6b6fea)
