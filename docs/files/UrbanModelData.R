@@ -36,7 +36,7 @@ if (test %in% list.files('.','*.csv')){
 
 
 # The name of the file with year, urban_land and possibly agr_land
-result_file <- 'results-2019.csv'
+result_file <- 'results-2019-hera.csv'
 # the name of the supplied data file with Guandong stats
 stats_file  <- "Guangdong-Yearbook-2019.csv"
 
@@ -124,7 +124,7 @@ model_data$urban_land <- input$urban_land[overlap]
 model_data$year <- input$year[overlap]
 
 # save this file
-write.csv(model_data, file = "model-2019.csv")
+write.csv(model_data, file = "model-2019-hera.csv")
 
 ###########################################################
 
@@ -142,7 +142,7 @@ write.csv(model_data, file = "model-2019.csv")
 # above and just load the model_data ...
 
 library(readr)
-model_data <- read_csv("model-2019.csv")
+model_data <- read_csv("model-2019-hera.csv")
 
 fit <- lm(du_dy ~ x1 + x2 + x3 + x4 + x5, data=model_data)
 
@@ -233,8 +233,8 @@ model_data$year[5:7]
 count <- 10
 
 # loop over count years 
-for (y0 in seq(first(model_data$year),last(model_data$year)-count,1)){
-    years <- seq(y0,y0+count-1)
+for (y0 in model_data$year){
+    years <- input$year
     sub = model_data[model_data$year %in% years,]
     fits <- lm(du_dy ~ x2 + x5  , data=sub)
 
@@ -273,4 +273,5 @@ print(summary(fit)) # $adj.r.squared
 
 ###########################################################
 ###########################################################
+
 
