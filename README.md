@@ -52,4 +52,5 @@ a [Google Earth Engine App](https://plewis.users.earthengine.app/view/shenzhen)
 
 ### Videos from Monday live sessions
 * [video on how to run GEE classification](https://web.microsoftstream.com/video/432b3ee6-6282-4bb3-9794-b8bcd773819b)
+* [video on how to bacth process with ENVI IDL](https://web.microsoftstream.com/video/5a6791bf-c86c-4a22-a69c-060bd79c1758)
 * [video on how to run R modelling](https://web.microsoftstream.com/video/2c3da9a9-e702-48a2-84ee-7fe59d6b6fea)
