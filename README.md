@@ -28,7 +28,7 @@ See below for notes on how to use these notes, or jump to the course pages
 ### Classification with ENVI
 * [Classification page](docs/5_PearlRiverClassification.ipynb) 
 
-### Classification with GEE (to replace the ENVI IDL bacth processing)
+### Classification with GEE (alternative to ENVI IDL bacth processing)
 * [GEE classification](docs/5a_PythonGEE-Classification.ipynb)
 
 ### Modelling
