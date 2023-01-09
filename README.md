@@ -1,4 +1,4 @@
-# Geog0027_Coursework (2020-2021)
+# Geog0027_Coursework (2022-2023)
 
 ![](docs/images/class_movie4.gif)
 
@@ -50,9 +50,3 @@ There are various ways you can access Earth Observation datasets, but for this p
 These yearly data are available to you via [http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/](http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/), or
 a [Google Earth Engine App](https://plewis.users.earthengine.app/view/shenzhen)
 
-### Videos from Monday live sessions
-* [video on how to run GEE classification](https://web.microsoftstream.com/video/432b3ee6-6282-4bb3-9794-b8bcd773819b)
-* [video on how to bacth process with ENVI IDL](https://web.microsoftstream.com/video/5a6791bf-c86c-4a22-a69c-060bd79c1758)
-* [video on how to run R modelling](https://web.microsoftstream.com/video/2c3da9a9-e702-48a2-84ee-7fe59d6b6fea)
-* [Mon 15th Mar live session: coursework Q&As](https://web.microsoftstream.com/video/dfd3c0e2-7afd-4b35-80a9-9da1c1eea235)
-* [Mon 22nd Mar live session: coursework Q&As cont.](https://web.microsoftstream.com/video/67a7ac89-4c06-4b96-a726-44a8f67aac5d)
