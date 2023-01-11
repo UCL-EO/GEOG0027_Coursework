@@ -2,13 +2,6 @@
 
 ![](docs/images/class_movie4.gif)
 
-Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master)
-
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master?urlpath=rstudio)
-
-READ-ONLY VERSION:
-[ReadTheDocs](https://geog0027-coursework-2020-2021.readthedocs.io/en/latest/)
-
 See below for notes on how to use these notes, or jump to the course pages
 
 ## Course Pages
