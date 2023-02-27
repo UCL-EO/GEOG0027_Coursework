@@ -7,31 +7,22 @@ See below for notes on how to use these notes, or jump to the course pages
 ## Course Pages
 
 ### Introduction
-* [Practical Introduction](docs/1_PearlRiverIntro.ipynb)
+* [Introduction](docs/1_PearlRiverIntro.ipynb)
 
-### ENVI setup
-* [Running ENVI](docs/2_RunningENVIOnYourOwnComputer.ipynb)
+### Image download and ENVI classifcation
+* [ENVI Classification](docs/5_PearlRiverClassification.ipynb)
 
-### Modelling setup
-* [RStudio setup](docs/3_RunningROnYourOwnComputer.ipynb)
+### GEE timeseries classification
+* [GEE Classification](docs/5a_PythonGEE-Classification.ipynb)
 
-### Download
-* [Download page](docs/4_DownloadLandsatFromGEE.ipynb)
+### Modelling setup and use
+* [Modelling Setup](docs/3_RunningROnYourOwnComputer.ipynb)
+* [Modelling](docs/5_UrbanModel.ipynb)
 
-### Classification with ENVI
-* [Classification page](docs/5_PearlRiverClassification.ipynb) 
+### Writeup and advice
+* [Project Write up](docs/7_WriteUp.ipynb)
+* [Project Advice](docs/8_ProjectAdvice.ipynb)
 
-### Classification with GEE (alternative to ENVI IDL bacth processing)
-* [GEE classification](docs/5a_PythonGEE-Classification.ipynb)
-
-### Modelling
-* [Modelling page](docs/6_UrbanModel.ipynb)
-
-### Write Up
-* [Write Up page](docs/7_WriteUp.ipynb)
-
-### Project Advice
-* [Project FAQ](docs/8_ProjectAdvice.ipynb)
 
 
 ## Coursework notes for Geog 0027
