@@ -10,7 +10,7 @@ See below for notes on how to use these notes, or jump to the course pages
 * [Introduction](docs/1_PearlRiverIntro.ipynb)
 
 ### Image download and ENVI classifcation
-* [ENVI Classification](docs/5_PearlRiverClassification.ipynb)
+* [Download explore and ENVI Classification](docs/5_PearlRiverClassification.ipynb)
 
 ### GEE timeseries classification
 * [GEE Classification](docs/5a_PythonGEE-Classification.ipynb)
