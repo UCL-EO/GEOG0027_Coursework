@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import ee
-def get_ENVI_ROIS(file,points_per_region=20):
+def get_ENVI_ROIS(file,points_per_region=20,subsample=False):
     ### first scan the header to find out how many ROIs and what size they take in the file
     count = 0
     n_ROI_count = 0
