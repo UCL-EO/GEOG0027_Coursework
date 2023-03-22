@@ -29,6 +29,8 @@ def get_ENVI_ROIS(file,points_per_region=20):
     #### find the 'chunks' within each ROI
     roi_change = np.logical_and(np.abs(X_diff)>2,np.abs(Y_diff)>2)
     roi_change_p = np.where(roi_change)
+    if subsample==False:
+        roi_change = np.zeros_like(X_diff,dtype=bool)
     n_ROI_sp = points_per_region
     ### use each ROI split to get each sub_ROI in each ROI
     ### extra variables for debugging

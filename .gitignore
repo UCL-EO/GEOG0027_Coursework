@@ -104,3 +104,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+docs/2001.csv
+docs/2018shenzhen roi.csv
