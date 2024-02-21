@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.swp
 .ipynb_checkpoints
+*pixel_stats.csv
 
 # C extensions
 *.so
