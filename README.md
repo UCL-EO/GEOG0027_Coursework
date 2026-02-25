@@ -7,10 +7,10 @@ See below for notes on how to use these notes, or jump to the course pages
 ## Course Pages
 
 ### Introduction
-* [Introduction](docs/1_PearlRiverIntro.ipynb)
+* [Introduction](https://colab.research.google.com/drive/1Rk2sS5oVq2kildzttg5oDAOiECsTXqgO?usp=sharing)
 
 ### Image download and ENVI classifcation
-* [Download, explore and ENVI Classification](docs/2_DownloadandENVI.ipynb)
+* [Download, explore and ENVI Classification](https://colab.research.google.com/drive/1nRiHunXO-wivN78ZUS3FP68lrAWcgayh?usp=sharing)
 
 ### GEE timeseries classification
 * [GEE Classification](docs/3_PythonGEE-Shenzhen.ipynb)
@@ -23,14 +23,4 @@ See below for notes on how to use these notes, or jump to the course pages
 * [Project Write up](docs/7_WriteUp.ipynb)
 * [Project Advice](docs/8_ProjectAdvice.ipynb)
 
-
-
-## Coursework notes for Geog 0027
-
-### Accessing a test dataset
-
-There are various ways you can access Earth Observation datasets, but for this practical, we will be using composite images (one per year) derived from Landsat data.
-
-These yearly data are available to you via [http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/](http://www2.geog.ucl.ac.uk/~plewis/GEOG0027/), or
-a [Google Earth Engine App](https://plewis.users.earthengine.app/view/shenzhen)
 
