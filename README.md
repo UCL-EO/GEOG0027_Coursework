@@ -1,4 +1,4 @@
-# Geog0027_Coursework (2024-2025)
+# Geog0027_Coursework (2025-2026)
 
 ![](docs/images/class_movie4.gif)
 
