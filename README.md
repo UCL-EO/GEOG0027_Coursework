@@ -13,7 +13,7 @@ See below for notes on how to use these notes, or jump to the course pages
 * [Download, explore and ENVI Classification](https://colab.research.google.com/drive/1nRiHunXO-wivN78ZUS3FP68lrAWcgayh?usp=sharing)
 
 ### GEE timeseries classification
-* [GEE Classification](docs/3_PythonGEE-Shenzhen.ipynb)
+* [GEE Classification](https://drive.google.com/file/d/1wTOzwnsQFyLAhQ8P7nhg85krn4ZEBNwC/view?usp=drive_link)
 
 ### Modelling setup and use
 * [Modelling Setup](docs/4_RunningROnYourOwnComputer.ipynb)
